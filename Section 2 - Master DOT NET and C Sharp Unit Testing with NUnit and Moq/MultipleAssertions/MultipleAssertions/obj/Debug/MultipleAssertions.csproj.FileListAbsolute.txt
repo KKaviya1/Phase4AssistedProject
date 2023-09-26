@@ -1,0 +1,6 @@
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\MultipleAssertions\MultipleAssertions\bin\Debug\MultipleAssertions.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\MultipleAssertions\MultipleAssertions\bin\Debug\MultipleAssertions.pdb
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\MultipleAssertions\MultipleAssertions\obj\Debug\MultipleAssertions.csproj.AssemblyReference.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\MultipleAssertions\MultipleAssertions\obj\Debug\MultipleAssertions.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\MultipleAssertions\MultipleAssertions\obj\Debug\MultipleAssertions.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\MultipleAssertions\MultipleAssertions\obj\Debug\MultipleAssertions.pdb

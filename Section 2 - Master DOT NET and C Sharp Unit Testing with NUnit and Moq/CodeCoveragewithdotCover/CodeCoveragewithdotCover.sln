@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCoveragewithdotCover", "CodeCoveragewithdotCover\CodeCoveragewithdotCover.csproj", "{4411FA9B-7DF7-402D-A35D-12712638CDA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCoveragewithdotCoverTest", "CodeCoveragewithdotCoverTest\CodeCoveragewithdotCoverTest.csproj", "{391ADF83-361E-48DB-8DF4-EC19E4579DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4411FA9B-7DF7-402D-A35D-12712638CDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4411FA9B-7DF7-402D-A35D-12712638CDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4411FA9B-7DF7-402D-A35D-12712638CDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4411FA9B-7DF7-402D-A35D-12712638CDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391ADF83-361E-48DB-8DF4-EC19E4579DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391ADF83-361E-48DB-8DF4-EC19E4579DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391ADF83-361E-48DB-8DF4-EC19E4579DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391ADF83-361E-48DB-8DF4-EC19E4579DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D607ACE5-F0C6-49F9-9561-0280E600AB14}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Exceptions\Exceptions\bin\Debug\Exceptions.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Exceptions\Exceptions\obj\Debug\Exceptions.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

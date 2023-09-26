@@ -1,0 +1,6 @@
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Warnings\Warnings\bin\Debug\Warnings.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Warnings\Warnings\bin\Debug\Warnings.pdb
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Warnings\Warnings\obj\Debug\Warnings.csproj.AssemblyReference.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Warnings\Warnings\obj\Debug\Warnings.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Warnings\Warnings\obj\Debug\Warnings.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Warnings\Warnings\obj\Debug\Warnings.pdb

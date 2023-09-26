@@ -1,0 +1,17 @@
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\Mocks,Stubs,Fakes&MolesTest.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\Mocks,Stubs,Fakes&MolesTest.pdb
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\Castle.Core.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\Moq.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\nunit.framework.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\Castle.Core.xml
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\Moq.xml
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\nunit.framework.xml
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\obj\Debug\Mocks,Stubs,Fakes&MolesTest.csproj.AssemblyReference.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\obj\Debug\Mocks,Stubs,Fakes&MolesTest.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\obj\Debug\Mocks,Stubs,Fakes&MolesTest.csproj.CopyComplete
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\obj\Debug\Mocks,Stubs,Fakes&MolesTest.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Mocks,Stubs,Fakes&Moles\Mocks,Stubs,Fakes&MolesTest\obj\Debug\Mocks,Stubs,Fakes&MolesTest.pdb

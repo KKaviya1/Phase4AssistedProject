@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFakes", "DynamicFakes\DynamicFakes.csproj", "{4530B244-57DD-4F14-B548-9194144BCB08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFakesTest", "DynamicFakesTest\DynamicFakesTest.csproj", "{1E65EF80-8B6D-4B43-9A99-F0868B80A49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4530B244-57DD-4F14-B548-9194144BCB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4530B244-57DD-4F14-B548-9194144BCB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4530B244-57DD-4F14-B548-9194144BCB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4530B244-57DD-4F14-B548-9194144BCB08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E65EF80-8B6D-4B43-9A99-F0868B80A49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E65EF80-8B6D-4B43-9A99-F0868B80A49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E65EF80-8B6D-4B43-9A99-F0868B80A49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E65EF80-8B6D-4B43-9A99-F0868B80A49C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {272A619F-C6C1-42A7-B092-E2ECACD6478F}
+	EndGlobalSection
+EndGlobal

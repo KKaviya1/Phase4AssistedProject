@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryTestingwithdotMemoryUnit", "MemoryTestingwithdotMemoryUnit\MemoryTestingwithdotMemoryUnit.csproj", "{852F11CB-24E6-404D-B0AF-503806ABC462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{16EEB8E2-D510-4BBA-B708-3E0F6820EF1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852F11CB-24E6-404D-B0AF-503806ABC462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852F11CB-24E6-404D-B0AF-503806ABC462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852F11CB-24E6-404D-B0AF-503806ABC462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852F11CB-24E6-404D-B0AF-503806ABC462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16EEB8E2-D510-4BBA-B708-3E0F6820EF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EEB8E2-D510-4BBA-B708-3E0F6820EF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EEB8E2-D510-4BBA-B708-3E0F6820EF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EEB8E2-D510-4BBA-B708-3E0F6820EF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDC16B1-E382-450E-821A-0A4B1E77D6C8}
+	EndGlobalSection
+EndGlobal

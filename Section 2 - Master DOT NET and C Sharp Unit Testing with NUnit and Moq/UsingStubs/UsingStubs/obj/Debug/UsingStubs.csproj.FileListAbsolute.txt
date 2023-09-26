@@ -1,0 +1,6 @@
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\UsingStubs\UsingStubs\bin\Debug\UsingStubs.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\UsingStubs\UsingStubs\bin\Debug\UsingStubs.pdb
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\UsingStubs\UsingStubs\obj\Debug\UsingStubs.csproj.AssemblyReference.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\UsingStubs\UsingStubs\obj\Debug\UsingStubs.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\UsingStubs\UsingStubs\obj\Debug\UsingStubs.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\UsingStubs\UsingStubs\obj\Debug\UsingStubs.pdb

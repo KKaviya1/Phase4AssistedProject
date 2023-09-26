@@ -1,0 +1,6 @@
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Arrange,Act&Assert\Arrange,Act&Assert\bin\Debug\Arrange,Act&Assert.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Arrange,Act&Assert\Arrange,Act&Assert\bin\Debug\Arrange,Act&Assert.pdb
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Arrange,Act&Assert\Arrange,Act&Assert\obj\Debug\Arrange,Act&Assert.csproj.AssemblyReference.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Arrange,Act&Assert\Arrange,Act&Assert\obj\Debug\Arrange,Act&Assert.csproj.CoreCompileInputs.cache
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Arrange,Act&Assert\Arrange,Act&Assert\obj\Debug\Arrange,Act&Assert.dll
+F:\PHASE-4\Assisted Project\Section 2 - Master DOT NET and C Sharp Unit Testing with NUnit and Moq\Arrange,Act&Assert\Arrange,Act&Assert\obj\Debug\Arrange,Act&Assert.pdb
